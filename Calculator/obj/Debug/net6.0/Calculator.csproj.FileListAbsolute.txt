@@ -1,0 +1,15 @@
+D:\CODING\Ultimate C# Masterclass for 2023\ToDoList\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\CODING\Ultimate C# Masterclass for 2023\ToDoList\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\CODING\Ultimate C# Masterclass for 2023\ToDoList\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\CODING\Ultimate C# Masterclass for 2023\ToDoList\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\CODING\Ultimate C# Masterclass for 2023\ToDoList\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\CODING\Ultimate C# Masterclass for 2023\ToDoList\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\CODING\Ultimate C# Masterclass for 2023\ToDoList\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Ultimate C# Masterclass for 2023\ToDoList\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\CODING\Ultimate C# Masterclass for 2023\ToDoList\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\CODING\Ultimate C# Masterclass for 2023\ToDoList\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\CODING\Ultimate C# Masterclass for 2023\ToDoList\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\CODING\Ultimate C# Masterclass for 2023\ToDoList\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\CODING\Ultimate C# Masterclass for 2023\ToDoList\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\CODING\Ultimate C# Masterclass for 2023\ToDoList\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\CODING\Ultimate C# Masterclass for 2023\ToDoList\Calculator\obj\Debug\net6.0\ref\Calculator.dll
